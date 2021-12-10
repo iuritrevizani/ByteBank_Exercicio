@@ -1,0 +1,7 @@
+C:\Users\darkz\source\repos\ByteBank_Original\ByteBank_Original\bin\Debug\ByteBank_Original.exe.config
+C:\Users\darkz\source\repos\ByteBank_Original\ByteBank_Original\bin\Debug\ByteBank_Original.exe
+C:\Users\darkz\source\repos\ByteBank_Original\ByteBank_Original\bin\Debug\ByteBank_Original.pdb
+C:\Users\darkz\source\repos\ByteBank_Original\ByteBank_Original\obj\Debug\ByteBank_Original.csproj.AssemblyReference.cache
+C:\Users\darkz\source\repos\ByteBank_Original\ByteBank_Original\obj\Debug\ByteBank_Original.csproj.CoreCompileInputs.cache
+C:\Users\darkz\source\repos\ByteBank_Original\ByteBank_Original\obj\Debug\ByteBank_Original.exe
+C:\Users\darkz\source\repos\ByteBank_Original\ByteBank_Original\obj\Debug\ByteBank_Original.pdb
